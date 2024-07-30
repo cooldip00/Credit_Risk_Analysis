@@ -4,19 +4,19 @@ The purpose of this analysis was to utilize credit card datasets from an actual 
 
 ### Undersampling
 - **ClusterCentroids Algorithm:** Used for undersampling the dataset to handle class imbalance.
-- ![Undersampling](path_to_your_image/undersampling.png)
+- ![Undersampling](https://github.com/cooldip00/Credit_Risk_Analysis/blob/main/Images/undersampling.png)
 
 ### Oversampling
 - **RandomOverSampler:** Used for oversampling the minority class to balance the dataset.
 - **SMOTE (Synthetic Minority Over-sampling Technique):** Another method used for oversampling the minority class by generating synthetic examples.
-![Oversampling pt1](path_to_your_image/oversampling_pt1.png)
-![Oversampling pt2](path_to_your_image/oversampling_pt2.png)
+![Oversampling pt1](https://github.com/cooldip00/Credit_Risk_Analysis/blob/main/Images/oversample_pt1.png)
+![Oversampling pt2](https://github.com/cooldip00/Credit_Risk_Analysis/blob/main/Images/oversample_pt2.png)
 
 ### SMOTE Oversampling
-![SMOTE Oversampling](path_to_your_image/smote_oversampling.png)
+![SMOTE Oversampling](https://github.com/cooldip00/Credit_Risk_Analysis/blob/main/Images/smote_oversampling.png)
 
 ### Combination Sampling
-![Combination Sampling](path_to_your_image/combination_sampling.png)
+![Combination Sampling](https://github.com/cooldip00/Credit_Risk_Analysis/blob/main/Images/combination_sampling.png)
 
 ### RandomForestClassifier
-![Random Forest](path_to_your_image/random_forest.png)
+![Random Forest](https://github.com/cooldip00/Credit_Risk_Analysis/blob/main/Images/randomforest.png)
