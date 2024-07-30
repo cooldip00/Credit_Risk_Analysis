@@ -4,7 +4,7 @@ The purpose of this analysis was to utilize credit card datasets from an actual 
 
 ### Undersampling
 - **ClusterCentroids Algorithm:** Used for undersampling the dataset to handle class imbalance.
-- ![Undersampling](https://github.com/cooldip00/Credit_Risk_Analysis/blob/main/Images/undersampling.png)
+![Undersampling](https://github.com/cooldip00/Credit_Risk_Analysis/blob/main/Images/undersampling.png)
 
 ### Oversampling
 - **RandomOverSampler:** Used for oversampling the minority class to balance the dataset.
